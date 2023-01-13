@@ -1,0 +1,1 @@
+# tuples are same as list but they are immutable, i.e they cannot be changed
