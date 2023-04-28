@@ -1,0 +1,8 @@
+sss, sss, sss, sss, sss, 1,ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 1
+ss, ss, ss, ss, ss, 0
